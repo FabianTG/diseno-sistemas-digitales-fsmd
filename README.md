@@ -1,6 +1,11 @@
 # Diseño de Sistemas Digitales: FSMD (Finite State Machine with Datapath)
 ## Arquitectura de Control y Ruta de Datos en Hardware (RTL)
 
+[![Área](https://img.shields.io/badge/%C3%81rea-Dise%C3%B1o%20Digital%20%2F%20RTL-blue?style=flat-square&logo=intel)](https://github.com/FabianTG/diseno-sistemas-digitales-fsmd)
+[![Arquitectura](https://img.shields.io/badge/Arquitectura-FSMD%20%28FSM%20%2B%20Datapath%29-orange?style=flat-square&logo=amd)](https://github.com/FabianTG/diseno-sistemas-digitales-fsmd)
+[![Lenguajes](https://img.shields.io/badge/Lenguajes-Verilog%20%2F%20VHDL-yellow?style=flat-square&logo=xilinx)](https://github.com/FabianTG/diseno-sistemas-digitales-fsmd)
+[![Licencia](https://img.shields.io/badge/Licencia-MIT-green?style=flat-square)](https://opensource.org/licenses/MIT)
+
 Este repositorio está dedicado al diseño, simulación e implementación de **Máquinas de Estado Finito con Ruta de Datos (FSMD - Finite State Machine with Datapath)**. La arquitectura FSMD es el pilar fundamental del diseño a nivel de transferencia de registros (RTL), permitiendo la creación de procesadores, controladores de memoria, aceleradores de hardware y sistemas de procesamiento de señales en dispositivos como FPGA y ASIC.
 
 La arquitectura se divide conceptualmente en dos bloques principales que trabajan de forma síncrona:
